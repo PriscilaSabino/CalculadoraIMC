@@ -1,1 +1,1 @@
-# CalculadoraIMC
+# Exercício para praticar: CalculadoraIMC.
