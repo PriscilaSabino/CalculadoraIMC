@@ -1,0 +1,55 @@
+#main {
+background-color: #EBBAEC;
+width: 350px ;
+height: 500px ;
+text-align: center;
+margin: auto;
+display: block;
+border-radius: 8px;
+}
+h1{
+text-align: center;
+padding-bottom: 10px;
+}
+#dados{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 20px;
+margin-left: 25px;
+}
+#dados #calcular{
+    width: 250px;
+    height: 30px;
+    top: 50px;
+    border-radius: 5px;
+    margin: 10px auto ;
+    text-align: center;
+    
+
+}
+#dados p{
+    text-align: left;
+}
+#input input {
+    border-radius: 5px;
+    width: 186px;
+    height: 25px;
+    
+}
+#peso{
+    margin-left: 10px ;
+}
+#res{
+  margin:auto;
+  margin-left: 60px;
+  align-items: center;
+  width: 250px;
+  height: 100px;
+  border-radius: 5px;
+  font: italic 20px serif;
+  box-shadow: 0px 0px 5px black;
+  background: rgb(189, 185, 185);
+  color: rgb(8, 8, 8);
+  padding: 20px;
+  box-sizing: border-box;
+  user-select: none;
+}
